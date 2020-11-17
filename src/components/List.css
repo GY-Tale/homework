@@ -1,0 +1,17 @@
+.list-box {
+    padding-left: 0;
+    width: 30%;
+    height: 70vh;
+    background-color: white;
+    overflow: scroll;
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+}
+.list-item {
+    width: 100%;
+    line-height: 10vh;
+    border-bottom: 1px solid black;
+    list-style-type: none;
+    text-align: center;
+}

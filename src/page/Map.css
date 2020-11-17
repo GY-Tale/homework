@@ -1,0 +1,7 @@
+.map-box {
+    display: flex;
+    height: 60vh;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+}
